@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nev": "City Comfort",
+    "tipus": "Városi kerékpár",
+    "napiDij": 3500,
+    "szin": "blue"
+  },
+  {
+    "id": 2,
+    "nev": "Mountain Explorer",
+    "tipus": "Hegyi kerékpár",
+    "napiDij": 5000,
+    "szin": "green"
+  },
+  {
+    "id": 3,
+    "nev": "Speed Racer",
+    "tipus": "Országúti kerékpár",
+    "napiDij": 6500,
+    "szin": "red"
+  },
+  {
+    "id": 4,
+    "nev": "Family Tour",
+    "tipus": "Trekking kerékpár",
+    "napiDij": 4200,
+    "szin": "orange"
+  },
+  {
+    "id": 5,
+    "nev": "Urban Style",
+    "tipus": "Városi kerékpár",
+    "napiDij": 3800,
+    "szin": "purple"
+  },
+  {
+    "id": 6,
+    "nev": "Trail Master",
+    "tipus": "Hegyi kerékpár",
+    "napiDij": 5500,
+    "szin": "darkgreen"
+  },
+  {
+    "id": 7,
+    "nev": "Easy Ride",
+    "tipus": "Elektromos kerékpár",
+    "napiDij": 8000,
+    "szin": "darkred"
+  }
+]
